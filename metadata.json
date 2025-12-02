@@ -1,0 +1,5 @@
+{
+  "name": "Gemini E-Commerce Platform",
+  "description": "A full-stack e-commerce solution with a custom CMS powered by Gemini, payment integration simulation, and a responsive user interface built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
